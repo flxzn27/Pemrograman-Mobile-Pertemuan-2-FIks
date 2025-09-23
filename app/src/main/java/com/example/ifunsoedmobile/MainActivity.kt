@@ -12,9 +12,13 @@ class MainActivity : AppCompatActivity() {
 
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
+        initNavigation()
     }
-    privage fun initNavigation() {
+
+    private fun initNavigation() {
         binding.btnToPage2.setOnClickListener {
             startActivity(Intent(this, Halaman2Activity::class.java))
+        }
     }
 }

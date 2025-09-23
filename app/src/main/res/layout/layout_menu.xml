@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_margin="4dp"
-    android:background="DEEBF7"
+    android:background="#DEEBF7"
     android:clickable="true"
     android:foreground="?android:attr/selectableItemBackground"
     android:padding="10dp"

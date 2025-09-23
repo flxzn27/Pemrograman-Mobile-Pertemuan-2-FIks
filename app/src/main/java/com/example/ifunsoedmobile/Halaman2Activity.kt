@@ -9,7 +9,7 @@ import com.example.ifunsoedmobile.databinding.ActivityHalaman2Binding
 class Halaman2Activity : AppCompatActivity() {
     private lateinit var binding: ActivityHalaman2Binding
     private val latitude ="-7.429427"
-    private val longitude = "189.338082"
+    private val longitude = "109.338082"
     private val gMapsUrl = "https://maps.google.com/maps?q=loc:"
     private val packageMaps = "com.google.android.apps.maps"
 
