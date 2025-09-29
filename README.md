@@ -19,3 +19,8 @@ Demo aplikasi:
 Demo aplikasi: 
 
 ![video2-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/c0423e09-9571-40d2-ba70-3de91ca95108)
+
+## Tugas 4 Pertemuan 5
+Demo aplikasi:
+
+https://github.com/user-attachments/assets/841eae9f-7f01-4317-9880-872d0ab036c6
